@@ -38,4 +38,4 @@ Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new
 
 ## Contributing
 
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
+Clone, Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
