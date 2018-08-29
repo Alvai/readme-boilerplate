@@ -34,8 +34,8 @@ Feel free to remove any sections that aren't applicable to your project.
 
 ## Support
 
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
+Please [open an issue](https://github.com/IvanMiIosevic/repo-name/issues/new) for support.
 
 ## Contributing
 
-Clone, Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
+Clone, Create a branch, add commits, and [open a pull request](https://github.com/IvanMiIosevic/repo-name/compare/).
