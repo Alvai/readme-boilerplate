@@ -34,8 +34,8 @@ Feel free to remove any sections that aren't applicable to your project.
 
 ## Support
 
-Please [open an issue](https://github.com/IvanMiIosevic/repo/issues/new) if you encounter any problems :relaxed:.
+Please [open an issue](https://github.com/Alvai/repo/issues/new) if you encounter any problems :relaxed:.
 
 ## Contributing
 
-Feel free to clone, create a branch, add commits, and [open a pull request](https://github.com/IvanMiIosevic/repo/compare/) !
+Feel free to clone, create a branch, add commits, and [open a pull request](https://github.com/Alvai/repo/compare/) !
